@@ -1,0 +1,17 @@
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.csproj.AssemblyReference.cache
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.Login_form.resources
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.Menu.resources
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.csproj.GenerateResource.cache
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.csproj.CoreCompileInputs.cache
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\login_form.exe.config
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\login_form.exe
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\login_form.pdb
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\EntityFramework.dll
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\EntityFramework.xml
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.csproj.Up2Date
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.exe
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.pdb
+C:\Users\gunes\Desktop\DEV\FULL-STACK\My Projects\Form Projects\1) Banking Project\login_form\login_form\obj\Debug\login_form.newAccount.resources
